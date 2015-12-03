@@ -1,0 +1,28 @@
+{
+  "name": "gen-css-identifier",
+  "version": "1.0.0",
+  "description": "Generate a unique css class or id name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallhelm/gen-css-identifier.git"
+  },
+  "keywords": [
+    "css",
+    "unique",
+    "class",
+    "id"
+  ],
+  "author": "smallhelm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallhelm/gen-css-identifier/issues"
+  },
+  "homepage": "https://github.com/smallhelm/gen-css-identifier#readme",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
